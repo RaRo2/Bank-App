@@ -1,0 +1,10 @@
+100004|Imsol|Tyred|12 Sleepington St, Snoreville|22222222222|wakemeupplease@gmail.com|157|
+Deposit|56|17/09/2022 1:40:39 PM
+Withdraw|1|17/09/2022 1:41:28 PM
+Withdraw|2|17/09/2022 1:51:50 PM
+Withdraw|1|17/09/2022 1:52:47 PM
+Withdraw|1|17/09/2022 1:54:11 PM
+Withdraw|1|17/09/2022 2:09:36 PM
+Deposit|54|17/09/2022 2:10:38 PM
+Withdraw|1|17/09/2022 2:11:10 PM
+Deposit|54|17/09/2022 3:01:10 PM

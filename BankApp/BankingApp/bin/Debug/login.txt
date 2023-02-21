@@ -1,0 +1,4 @@
+raro2|123
+guest|1234
+user1|password123
+user2|321password

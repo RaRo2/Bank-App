@@ -1,0 +1,28 @@
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\Stanley Wong\Desktop\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.pdb
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.exe
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.pdb
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe.config
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.pdb
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+E:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe.config
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.exe
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\bin\Debug\BankingApp.pdb
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.AssemblyReference.cache
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.exe
+D:\Uni\.NET\Assignment1\BankApp\BankingApp\obj\Debug\BankingApp.pdb
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\bin\Debug\BankingApp.exe.config
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\bin\Debug\BankingApp.exe
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\bin\Debug\BankingApp.pdb
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\obj\Debug\BankingApp.csprojAssemblyReference.cache
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\obj\Debug\BankingApp.csproj.CoreCompileInputs.cache
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\obj\Debug\BankingApp.exe
+C:\Users\13934195\AppLockerExceptions\BankApp\BankingApp\obj\Debug\BankingApp.pdb

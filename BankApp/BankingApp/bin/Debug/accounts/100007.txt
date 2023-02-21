@@ -1,0 +1,3 @@
+100007|Srujan|Kaukuntla|Unit 2A, Aurthur St, Strathfield|0|ucanmakeanythinguwant@gmail.com|9999999999|
+Deposit|10000000000|17/09/2022 4:10:56 PM
+Withdraw|1|17/09/2022 4:13:10 PM
